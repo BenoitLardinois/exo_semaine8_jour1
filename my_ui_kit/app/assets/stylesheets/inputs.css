@@ -1,0 +1,46 @@
+.flex-container-input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-1{
+  background-color: lightgray;
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+}
+
+
+.cars{
+  background-color: lightgray;
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  font-family: roboto;
+}
+
+.option{
+  font-family: roboto;
+}
+
+.area-1{
+  background-color: lightgray;
+  height: 80px;
+  width: 250px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  font-family: roboto;
+}
+
+.male{
+  height: 20px;
+  width: 20px;
+}
+
+.vehicle1{
+  height: 20px;
+  width: 20px;
+}

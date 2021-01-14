@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: merriweather;
+}
+
+p{
+  font-family: roboto;
+}
+
+lead{
+  font-family: roboto;
+}
+
+blockquote{
+  font-family: roboto;
+}
+
+ul{
+  font-family: roboto;
+}
+
+ol{
+  font-family: roboto;
+}
+
+li{
+  font-family: roboto;
+}
